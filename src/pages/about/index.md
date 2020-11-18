@@ -1,19 +1,12 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: About our Press
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+THE UNIVERSITY OF VIRGINIA PRESS was founded in 1963 to advance the intellectual interests not only of the [University of Virginia](http://www.virginia.edu/), but of institutions of higher learning throughout the state. A member of the [Association of University Presses](http://aaupnet.org/), UVaP currently publishes seventy new titles annually. New titles are approved by the Board of Directors after a rigorous process of peer review. The UVaP editorial program focuses primarily on the humanities and social sciences with special concentrations in American history, African American studies, southern studies, literature, ecocriticism, architecture, and regional books. While it continuously pursues new titles, UVaP also maintains a backlist of over 1,000 titles in print.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Active series include: the [Papers of George Washington](https://www.upress.virginia.edu/series/papers-george-washington); the [Papers of James Madison](https://www.upress.virginia.edu/series/papers-james-madison); the [Victorian Literature and Culture Series](https://www.upress.virginia.edu/series/victorian-literature-and-culture-series); [CARAF Books](https://www.upress.virginia.edu/series/caraf-books-caribbean-and-african-literature-translated-french) (translations of Francophone literature); [New World Studies](https://www.upress.virginia.edu/series/new-world-studies); [Cultural Frames, Framing Culture](https://www.upress.virginia.edu/series/cultural-frames-framing-culture); the [Carter G. Woodson Institute Series in Black Studies](https://www.upress.virginia.edu/series/carter-g-woodson-institute-series); [Under the Sign of Nature: Explorations in Ecocriticism](https://www.upress.virginia.edu/series/under-sign-nature); [The American South Series](https://www.upress.virginia.edu/series/american-south-series); [A Nation Divided: New Studies in the Civil War](https://www.upress.virginia.edu/series/nation-divided-studies-civil-war-era); [Constitutionalism and Democracy](https://www.upress.virginia.edu/series/constitutionalism-and-democracy); [Race, Ethnicity, and Politics](https://www.upress.virginia.edu/series/race-ethnicity-and-politics); [Reconsiderations in Southern African History](https://www.upress.virginia.edu/series/reconsiderations-southern-african-history); [Studies in Early Modern German History](https://www.upress.virginia.edu/series/studies-early-modern-german-history); [Studies in Religion and Culture](https://www.upress.virginia.edu/series/studies-religion-and-culture); [Southern Texts Society](https://www.upress.virginia.edu/series/southern-texts-society); [MIDCENTURY: Architecture, Landscape, Urbanism, and Design; and the](https://www.upress.virginia.edu/series/midcentury-architecture-landscape-urbanism-and-design) [Buildings of the United States](https://www.upress.virginia.edu/series/buildings-united-states).
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Current and prospective authors, please see our [Information for Authors](https://www.upress.virginia.edu/content/current-authors) page. For information about open positions at the Press or our internship program, see our [Opportunities](https://www.upress.virginia.edu/content/opportunities/ "Opportunities") page.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Information on Rights and Permissions may be found [here](https://www.upress.virginia.edu/content/permissions "Permission Information").
